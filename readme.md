@@ -5,4 +5,8 @@ Crea cómodamente listas de reproducción de Bandcamp para poder descubrir nuevo
 Descargar el ejecutable/binario de la carpeta bin y ejecutar, no es necesario instalar nada.
 
 ## Descripción
-Una vez iniciado deberá introducirse la URL de Bandcamp que se quiera analizar. Intentará encontrar todas las ediciones posibles y mostrará la recopilación de las mismas para escoger aquellas en las que se esté interesado. Posteriormente habrá que indicar si se quiere que las canciones se ordenen al azar en la lista de reproducción o no. Finalmente creará una lista de reproducción en el directorio desde donde se haya ejecutado con el nombre "playlist_bandcamp.xspf". Este tipo de listas se pueden abrir con VLC
+Una vez iniciado deberá introducirse la URL de Bandcamp que se quiera analizar. Intentará encontrar todas las ediciones posibles y mostrará la recopilación de las mismas para escoger aquellas en las que se esté interesado. Posteriormente habrá que indicar si se quiere que las canciones se ordenen al azar en la lista de reproducción o no. Finalmente creará una lista de reproducción en el directorio desde donde se haya ejecutado con el nombre "playlist_bandcamp.xspf". Este tipo de listas se pueden abrir con VLC.
+
+![captura](https://i.imgur.com/Jj7M6bY.png)
+![captura](https://i.imgur.com/EBXEi35.png)
+![captura](https://i.imgur.com/fg25f3T.png)
